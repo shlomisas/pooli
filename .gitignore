@@ -1,0 +1,19 @@
+# npm specific
+npm-debug*
+node_modules
+/npm-debug.log
+
+# IDE
+.vscode/
+.idea/
+*.orig
+
+# build specific
+/build
+/dist
+
+# Misc
+.DS_Store
+flow-typed
+sh.exe.stackdump
+bash.exe.stackdump
