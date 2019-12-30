@@ -1,8 +1,12 @@
 {
-    "name": "pooljs",
+    "name": "pooli",
     "version": "1.0.0",
     "description": "",
     "main": "dist/index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/shlomisas/pooli"
+    },
     "scripts": {
         "test": "cross-env TEST_MODE=true mocha test --opts .mocharc",
         "build:local": "webpack --mode development",
