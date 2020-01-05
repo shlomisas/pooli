@@ -2,7 +2,7 @@
     "name": "pooli",
     "version": "1.0.2",
     "description": "JavaScript tasks pool manager",
-    "main": "dist/index.js",
+    "main": "dist/main.js",
     "keywords": [
         "pool",
         "pooling",

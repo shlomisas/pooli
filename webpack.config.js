@@ -7,7 +7,9 @@ module.exports = async (env = {}, argv) => {
 
     return {
         mode: argv.mode,
-        entry: './src/index.js',
+        entry: {
+            index: './src/index.js'
+        },
         output: {
             filename: '[name].js',
             library: '[name]'
