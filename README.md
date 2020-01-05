@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/shlomisas/pooli.svg?branch=master)](https://travis-ci.org/shlomisas/pooli)
 
-PoolJS allows you to run tasks on timer based pool and make them done on each interval
+Pooli allows you to run tasks on timer based pool and make them done on each interval
 
 # Install
 
