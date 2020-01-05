@@ -1,10 +1,10 @@
 # General
 
-[![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url] ![node](https://travis-ci.org/shlomisas/pooli.svg?branch=master)
+[![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url] ![node](https://img.shields.io/node/v/rediss.svg)
 <!--[![Coveralls Status][coveralls-image]][coveralls-url] -->
 <!--[![OpenCollective Backers][backer-badge]][backer-url] [![OpenCollective Sponsors][sponsor-badge]][sponsor-url] -->
 
-PoolJS allows you to run tasks on timer based pool and make them done on each interval
+Pooli allows you to run tasks on timer based pool and make them done on each interval
 
 # Install
 
