@@ -1,0 +1,6 @@
+sudo: false
+language: javascript
+env:
+  - TRAVIS=true
+git:
+  depth: 10

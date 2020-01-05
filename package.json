@@ -3,6 +3,13 @@
     "version": "1.0.1",
     "description": "JavaScript tasks pool manager",
     "main": "dist/index.js",
+    "keywords": [
+        "pool",
+        "pooling",
+        "throttle",
+        "javascript",
+        "timer"
+    ],
     "repository": {
         "type": "git",
         "url": "https://github.com/shlomisas/pooli"
