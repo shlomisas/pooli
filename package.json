@@ -1,7 +1,7 @@
 {
     "name": "pooli",
     "version": "1.0.0",
-    "description": "",
+    "description": "JavaScript tasks pool manager",
     "main": "dist/index.js",
     "repository": {
         "type": "git",
@@ -33,7 +33,6 @@
         "webpack-cli": "^3.3.10"
     },
     "dependencies": {
-        "eventemitter3": "^4.0.0",
         "regenerator-runtime": "^0.13.3"
     }
 }

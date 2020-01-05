@@ -1,14 +1,10 @@
-import EventEmitter from 'eventemitter3';
-
-
-class Pool extends EventEmitter{
+class Pool{
 
     _interval;
     _timer;
     _pool = [];
 
     constructor({ interval }){
-        super();
         this._interval = interval;
     }
 
